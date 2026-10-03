@@ -1,0 +1,2 @@
+The simplex method an algorithm that efficiently moves along the vertices of a convex polytope to find the minimum value of an objective function on the boundary of the region. This algorithm works on problems of the form Ax = b where we minimize an objective function c. 
+Where A makes up the LHS of the constraints,  b is RHS of the constraints and c is the objective function. This is an ad-hoc implementation and only serves as a reference as of now. It will require more work to make it run. 
